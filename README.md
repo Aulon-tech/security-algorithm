@@ -130,7 +130,7 @@ Demonstron dobësinë e RSA kur `n` është i vogël duke faktorizuar `n = p × 
 
 ## 👨‍💻 Autori
 
-**Aulon** — Student i Inxhinierisë Kompjuterike  
+**Aulon** — Student i Shkencave Kompjuterike  
 🔗 [github.com/Aulon-tech](https://github.com/Aulon-tech)
 
 ---
